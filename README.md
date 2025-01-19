@@ -11,4 +11,4 @@ PC Game showcase made with UE4, made for testing my skill in programming mechani
 
 ## License
 
-[GNU AGPLv3 ](https://choosealicense.com/licenses/agpl-3.0/)
+[GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
